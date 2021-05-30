@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+
+<category>
+<pattern> O que é Beringela </pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> O que é Beringela? </pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> Beringela </pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> De onde vem a Beringela </pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> De onde vem a Beringela?</pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> Beringela é um legume?</pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> Beringela e um legume?</pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> Beringela é um legume </pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> Beringela e um legume </pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> A Beringela é um legume?</pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> A Beringela e um legume?</pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+<category> 
+<pattern> A Beringela é um legume </pattern>
+<template> Beringela é uma fruta originária da Índia.Fonte: Wikipedia </template>
+</category>
+
+
+</aiml>
